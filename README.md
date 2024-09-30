@@ -16,3 +16,5 @@ Junto con el uso de las funciones útiles de la librería **scikit-learn**, se d
 
 Además, para el dataset de Titanic, se investigará si la **edad** es un factor determinante para la supervivencia y se predecirá el destino de dos pasajeros con boletos específicos.
 
+![Titanic](images/Boarding_PASS.jpg)
+
