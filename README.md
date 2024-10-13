@@ -18,3 +18,5 @@ Además, para el dataset de Titanic, se investigará si la **edad** es un factor
 
 ![Titanic](images/Boarding_PASS.jpg)
 
+![Titanic](images/Boarding_PASS.jpg)
+
